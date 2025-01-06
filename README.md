@@ -39,9 +39,9 @@ Crafted my latest social media design using Figma's creative toolkit. 🎨 Shari
 
 
 # Events
-Solution challenge Full post :
+# Solution challenge 2024 Full post :
 ![solution challenge ui](https://github.com/NikitaKhuspe1729/Social_media_design/assets/125488086/b83e4fac-8698-4e3a-ae34-8e77fd47fe45)
-Close view :
+# Close view :
 ![solution challenge 1](https://github.com/NikitaKhuspe1729/Social_media_design/assets/125488086/af5180b2-9777-4ee3-aeac-c0bff52993ca)
 ![solution challenge 2](https://github.com/NikitaKhuspe1729/Social_media_design/assets/125488086/14b72add-24a3-4d97-b4fa-afbfac0f2ea1)
 ![solution challenge 3](https://github.com/NikitaKhuspe1729/Social_media_design/assets/125488086/7072cc58-c385-45d8-ad4e-de57e4e53cff)
@@ -49,6 +49,9 @@ Close view :
 ![solution challenge 5](https://github.com/NikitaKhuspe1729/Social_media_design/assets/125488086/d0ef4238-3232-4484-8226-979b7bfd2c40)
 ![android](https://github.com/NikitaKhuspe1729/Social_media_design/assets/125488086/d4df39c6-dcd1-48a1-b786-9331f2632f7f)
 ![Gen ai register](https://github.com/user-attachments/assets/353b54a3-d46f-4a47-b996-4f744a89add1)
+# Solution challenge 2025
+
+# Close view
 
 # Poster
 ![GDG poster](https://github.com/user-attachments/assets/6f1fb56a-8861-4367-b80a-6d9e446cb40f)
