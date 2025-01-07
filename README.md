@@ -50,8 +50,16 @@ Crafted my latest social media design using Figma's creative toolkit. 🎨 Shari
 ![android](https://github.com/NikitaKhuspe1729/Social_media_design/assets/125488086/d4df39c6-dcd1-48a1-b786-9331f2632f7f)
 ![Gen ai register](https://github.com/user-attachments/assets/353b54a3-d46f-4a47-b996-4f744a89add1)
 # Solution challenge 2025
+![Frame 1](https://github.com/user-attachments/assets/1592892f-c8e0-4f5d-ac2b-06a114184384)
 
 # Close view
+![1](https://github.com/user-attachments/assets/d3b20c5d-a722-4590-a002-0c938b5e17d2)
+![2](https://github.com/user-attachments/assets/173077ac-4f00-4685-973c-8c743343e291)
+![3](https://github.com/user-attachments/assets/38a16a68-70f5-4a13-9aaf-0c95a341d84e)
+![4](https://github.com/user-attachments/assets/fcf9537b-cb86-419f-bed9-e1e579b3e90a)
+![5](https://github.com/user-attachments/assets/601e822b-c4a7-4aa5-9a43-dd29b6410da8)
+![6](https://github.com/user-attachments/assets/a331b58f-c7a0-4c19-bc4a-98d913612daa)
+![7](https://github.com/user-attachments/assets/01e5f0f3-313f-4180-ae34-ef138bb5075c)
 
 # Poster
 ![GDG poster](https://github.com/user-attachments/assets/6f1fb56a-8861-4367-b80a-6d9e446cb40f)
